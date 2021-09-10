@@ -11,6 +11,7 @@
 
 📈 my Github stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=bhuvisanathra&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=bhuvisanathra&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 
