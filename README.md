@@ -11,5 +11,7 @@
 
 <img align="left" width="400" height="300" src="https://github-readme-stats.vercel.app/api?username=bhuvisanathra&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <img align="right" alt="Coding" width="400" height="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvisanathra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
