@@ -1,6 +1,6 @@
 ### Hola, <a href="https://www.instagram.com/_bhuvi_sanathra_/" target="_blank">Bhuvnesh Sanathara</a> Here, 👋
 
-- 👯I Am A Student
+- 👯I Am A Computer Engineering Student
 - 💬Studying In Diploma Computer Engineering 
 - From Porbandar, Gujarat
 - 😄Coding Learner
