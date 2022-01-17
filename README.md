@@ -6,14 +6,15 @@
 - ⚡Intrested In Web Devlopment Career
 
 
-📈 my Github stats
+📈 ## 📈 GitHub Stats
 
-<img align="left" width="400" height="300" src="https://github-readme-stats.vercel.app/api?username=bhuvisanathra&show_icons=true&theme=radical">
-<img width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
-<img align="centre" alt="Coding" width="400" height="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<a href="https://github.com/bhuvisanathra">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namanthanki&hide=html,css&title_color=6c9ff4&text_color=35aea1&icon_color=be90f2&bg_color=1b1a26" />
+</a>
 
-
-
+<a href="https://github.com/bhuvisanathra">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=namanthanki&show_icons=true&theme=tokyonight&line_height=27&count_private=true" alt="Naman's GitHub Stats" />
+</a>
 
 
 
