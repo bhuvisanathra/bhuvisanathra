@@ -1,13 +1,15 @@
 ### Hola, <a href="https://www.instagram.com/_bhuvi_sanathra_/" target="_blank">Bhuvnesh Sanathara</a> Here, 👋
+<br>
 
 - 👯I Am A Computer Engineering Student
 - 💬 From Porbandar, Gujarat
 - 😄Coding Learner
 - ⚡Intrested In Web Devlopment Career
 
+<br>
 
 📈 GitHub Stats
-
+<br>
 <a href="https://github.com/bhuvisanathra">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namanthanki&hide=html,css&title_color=6c9ff4&text_color=35aea1&icon_color=be90f2&bg_color=1b1a26" />
 </a>
