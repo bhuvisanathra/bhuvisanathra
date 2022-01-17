@@ -6,7 +6,7 @@
 - ⚡Intrested In Web Devlopment Career
 
 
-📈 ## 📈 GitHub Stats
+📈 GitHub Stats
 
 <a href="https://github.com/bhuvisanathra">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namanthanki&hide=html,css&title_color=6c9ff4&text_color=35aea1&icon_color=be90f2&bg_color=1b1a26" />
