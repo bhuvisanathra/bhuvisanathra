@@ -1,10 +1,10 @@
 ### Hola, <a href="https://www.instagram.com/_bhuvi_sanathra_/" target="_blank">Bhuvnesh Sanathara</a> Here, 👋
 <hr>
 
-- 👯I Am A Computer Engineering Student
+- 👯 Pursuing Bachelor of Technology From Dhramsinh Desai University
 - 💬 From Porbandar, Gujarat
-- 😄Learner in this vast field Of Coding
-- ⚡Intrested In Web Devlopment Career
+- 😄 Learner in this vast field Of Coding
+- ⚡ Intrested In Web Devlopment Career
 
 <br>
 📈 GitHub Stats
