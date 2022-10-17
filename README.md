@@ -1,4 +1,4 @@
-### Hola, <a href="https://www.instagram.com/_bhuvi_sanathra_/" target="_blank">Bhuvnesh Sanathara</a> Here, 👋
+### Hola, <a href="https://www.linkedin.com/in/bhuvisanathara/" target="_blank">Bhuvnesh Sanathara</a> Here, 👋
 <hr>
 
 - 👯 Pursuing Bachelor of Technology From Dhramsinh Desai University
