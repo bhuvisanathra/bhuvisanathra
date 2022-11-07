@@ -7,7 +7,6 @@
 - ⚡ Intrested In Web Devlopment Career
 
 <br>
-<!-- ![om-ashish-soni's GitHub stats](https://github-readme-stats.vercel.app/api?username=om-ashish-soni) -->
 ![Bhuvnesh Sanathara github stats](https://github-readme-stats.vercel.app/api?username=bhuvisanathra&show_icons=true)  
 
 ![Bhuvnesh Sanathara streak stats](https://github-readme-streak-stats.herokuapp.com/?user=bhuvisanathra&)  
