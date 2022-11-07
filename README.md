@@ -7,11 +7,14 @@
 - ⚡ Intrested In Web Devlopment Career
 
 <br>
-📈 GitHub Stats
-<hr>
-<a href="https://github.com/bhuvisanathra">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvisanathra&hide=html,css&title_color=6c9ff4&text_color=35aea1&icon_color=be90f2&bg_color=1b1a26" />
-</a>
+<!-- ![om-ashish-soni's GitHub stats](https://github-readme-stats.vercel.app/api?username=om-ashish-soni) -->
+![Bhuvnesh Sanathara github stats](https://github-readme-stats.vercel.app/api?username=bhuvisanathra&show_icons=true)  
+
+![Bhuvnesh Sanathara streak stats](https://github-readme-streak-stats.herokuapp.com/?user=bhuvisanathra&)  
+
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvisanathra">
+
+<img src="https://github-profile-trophy.vercel.app/?username=bhuvisanathra">
 
 <padding left="2px">
 <a href="https://github.com/bhuvisanathra">
