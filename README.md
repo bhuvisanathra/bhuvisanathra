@@ -1,4 +1,4 @@
-### Hola, <a href="https://www.linkedin.com/in/bhuvisanathara/" target="_blank">Bhuvnesh Sanathara</a> Here, <img ="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
+### Hola 👋  Bhuvi Sanathara Here! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 <hr>
 
 - 👯 Pursuing Bachelor of Technology From Dhramsinh Desai University
