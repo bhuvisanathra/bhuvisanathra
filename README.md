@@ -1,4 +1,4 @@
-### Hola, <a href="https://www.linkedin.com/in/bhuvisanathara/" target="_blank">Bhuvnesh Sanathara</a> Here, 👋
+### Hola, <a href="https://www.linkedin.com/in/bhuvisanathara/" target="_blank">Bhuvnesh Sanathara</a> Here, <img ="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 <hr>
 
 - 👯 Pursuing Bachelor of Technology From Dhramsinh Desai University
@@ -18,5 +18,6 @@
 
 ## Study : 
 
-      My name is Bhuvnesh Sanathara . I am currently pursuing B.Tech Information Technology At Dharmsinh Desai University(DDU) , Nadiad.
+      My name is Bhuvnesh Sanathara . I am currently pursuing B.Tech Information Technology 
+      At Dharmsinh Desai University(DDU) , Nadiad.
       Currently I am in 3rd semester.
