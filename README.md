@@ -1,10 +1,4 @@
-### Hola 👋  Bhuvi Sanathara Here! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
-<hr>
-
-- 👯 Pursuing Bachelor of Technology From Dhramsinh Desai University
-- 💬 From Porbandar, Gujarat
-- 😄 Learner in this vast field Of Coding
-- ⚡ Intrested In Web Devlopment Career
+### Hola, Bhuvi Sanathara Here! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 
 <br>
 
