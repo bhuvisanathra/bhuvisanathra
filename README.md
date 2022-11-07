@@ -15,3 +15,10 @@
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvisanathra">
 
 <img src="https://github-profile-trophy.vercel.app/?username=bhuvisanathra">
+
+## Study : 
+
+      My name is Bhuvnesh Sanathara . I am currently pursuing B.Tech Information Technology
+      At Dharmsinh Desai University(DDU) , Nadiad.
+
+      Currently I am in 3rd semester.
