@@ -2,13 +2,13 @@
 
 <br>
 
-![Bhuvnesh Sanathara github stats](https://github-readme-stats.vercel.app/api?username=bhuvisanathra&)  
+<!--![Bhuvnesh Sanathara github stats](https://github-readme-stats.vercel.app/api?username=bhuvisanathra&)  
 
 ![Bhuvnesh Sanathara streak stats](https://github-readme-streak-stats.herokuapp.com/?user=bhuvisanathra&)  
 
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvisanathra">
 
-<img src="https://github-profile-trophy.vercel.app/?username=bhuvisanathra">
+<img src="https://github-profile-trophy.vercel.app/?username=bhuvisanathra">-->
 
 ## Study : 
 
