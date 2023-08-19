@@ -13,5 +13,5 @@
 <h2 align="center">Study</h2>
 
 <p align="center">
-  My name is Bhuvnesh Sanathara. I am currently pursuing B.Tech in Information Technology at Dharmsinh Desai University(DDU), Nadiad. I am currently in the 4th semester of my studies.
+  My name is Bhuvnesh Sanathara. I am currently pursuing B.Tech in Information Technology at Dharmsinh Desai University(DDU), Nadiad. I am currently in the 5th semester of my studies.
 </p>
