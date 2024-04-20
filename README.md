@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **React, Spring-boot**
 
-- 👨‍💻 All of my projects are available at [bhuviportfolio.netlify.app](https://bhuviportfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [https://bhuvneshsanathra.netlify.app/](https://bhuvneshsanathra.netlify.app/)
 
 - 📫 How to reach me **bhuvneshsanathara@gmail.com**
 
-- 📄 Know about my experiences [https://bhuviportfolio.netlify.app/document/Bhuvnesh_Sanathra.pdf](https://bhuviportfolio.netlify.app/document/Bhuvnesh_Sanathra.pdf)
+- 📄 Know about my experiences [https://bhuvneshsanathra.netlify.app/assets/Bhuvnesh_Sanathra-BfY7rfEp.pdf](https://bhuvneshsanathra.netlify.app/assets/Bhuvnesh_Sanathra-BfY7rfEp.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
