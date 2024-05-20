@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvisanathra&label=Profile%20views&color=e24a08&style=plastic" alt="bhuvisanathra" /> </p>
 
-- 🔭 I’m currently working on [Nirmaan-Yaatra](https://github.com/bhuvisanathra/nirmaan-yaatra)
-
 - 🌱 I’m currently learning **React, Spring-boot**
 
 - 👨‍💻 All of my projects are available at [https://bhuvneshsanathra.netlify.app/](https://bhuvneshsanathra.netlify.app/)
