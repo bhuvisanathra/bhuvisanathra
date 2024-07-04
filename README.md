@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhuvnesh Sanathara</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvisanathra&label=Profile%20views&color=e24a08&style=plastic" alt="bhuvisanathra" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bhuvisanathra&label=Profile%20views&color=e24a08&style=plastic" alt="bhuvisanathra" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://bhuvneshsanathra.netlify.app/](https://bhuvneshsanathra.netlify.app/)
   
