@@ -164,11 +164,10 @@
 <details>
  <summary>
      
-## 📊Github Commit Stats 
+<!-- **## 📊Github Commit Stats 
 </summary>
-<!--     <a  href="http://www.github.com/NisargPipaliya" align ='center'><img align = "center" src="https://github-readme-streak-stats.herokuapp.com/?user=NisargPipaliya&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> -->
-<!-- <br><br><br> -->
+    <a  href="http://www.github.com/NisargPipaliya" align ='center'><img align = "center" src="https://github-readme-streak-stats.herokuapp.com/?user=NisargPipaliya&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a> 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhuvisanathra&theme=dark"><br>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bhuvisanathra&theme=dark"> &nbsp; &nbsp;
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhuvisanathra&theme=dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhuvisanathra&theme=dark"> -->
 
