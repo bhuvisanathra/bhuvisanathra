@@ -160,11 +160,11 @@
     <td colspan="5"></td>
   </tr>
 </table><div align = "center">
-</details>
-<details>
 
   
   <!-- <summary>
+</details>
+<details>
     
  **## 📊Github Commit Stats 
 </summary>
